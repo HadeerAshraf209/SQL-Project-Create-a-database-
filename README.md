@@ -1,4 +1,4 @@
-# SQL Project Overview:
+# Student Course Management Database Project:
 This project involves creating a database for managing student courses. The database will have tables for students, courses, enrollments, and instructors.
 
 The objective is to learn and practice SQL queries covering various topics such as selection, filtering, aggregation, joins, and subqueries.
