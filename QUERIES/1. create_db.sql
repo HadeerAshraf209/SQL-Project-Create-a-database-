@@ -1,0 +1,2 @@
+CREATE DATABASE StudentCourseManagement;
+USE StudentCourseManagement;
